@@ -10,3 +10,4 @@ submissions/
 .DS_Store
 data/
 *.json
+processed/
